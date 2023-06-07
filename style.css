@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+nav {
+  background-image: url(Rectangle\ 2\ \(1\).png);
+  max-width: 1566px;
+  height: 97px;
+}
+nav a {
+  color: #fff;
+  display: flex;
+}
+nav .box {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 35px;
+}
+
+.hero {
+  background-image: url(hero\ image.png);
+  max-width: 1566px;
+  height: 345px;
+}
+.hero .hero-text1 {
+  color: #fff;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  padding-top: 150px;
+}
+
+.get-in, p {
+  width: 730px;
+  height: 40px;
+  padding-top: 30px;
+}
+
+.name {
+  padding-top: 450px;
+  padding-bottom: 30px;
+  color: rgb(168, 167, 167);
+}
+.name .name-border {
+  border: 2px solid #000;
+  height: 0px;
+  width: 301px;
+  left: 0px;
+  top: 35px;
+  border-radius: nullpx;
+}
+.name .name1 {
+  padding-top: 450px;
+  padding-bottom: 30px;
+  color: rgb(168, 167, 167);
+}
+
+.lear, button {
+  width: 169px;
+  height: 54px;
+  background-color: #1E2833;
+  color: #fff;
+}
+
+.pro-max {
+  display: flex;
+}
+.pro-max .pro2 {
+  padding-top: 250px;
+}
+
+.lokatsiya {
+  padding-left: 100px;
+  padding-top: 200px;
+}
+
+.container {
+  background-color: #1E2833;
+  max-width: 1566px;
+  height: 404px;
+  margin-top: 200px;
+}
+.container .item10, .container p {
+  color: #FFFFFF;
+  width: 230px;
+  height: 58px;
+}
+.container .text {
+  display: flex;
+  justify-content: space-around;
+  padding-left: 200px;
+}
+.container .text h4 {
+  color: #fff;
+}
+.container .facebook {
+  display: flex;
+  justify-content: end;
+  align-items: flex-end;
+  gap: 5px;
+  padding-top: 50px;
+  padding-right: 50px;
+}/*# sourceMappingURL=style.css.map */
